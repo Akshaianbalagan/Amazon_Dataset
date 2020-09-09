@@ -1,1 +1,1 @@
-# Amazon_Dataset
+# Minor_Thesis_Recommendation_system_ecommerce
